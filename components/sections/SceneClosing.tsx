@@ -41,14 +41,20 @@ export default function SceneClosing() {
             Fraud · Payments · Risk · Data Science · AI
           </p>
 
-          <a href="mailto:vorugantipradeep9950@gmail.com" className="work-btn">
+          <a href="mailto:Vorugantipradeep2331@gmail.com" className="work-btn">
             Work Together <span style={{ transition: 'transform 0.3s' }}>→</span>
           </a>
 
-          <a href="mailto:vorugantipradeep9950@gmail.com" style={{ fontSize: '13px', fontWeight: 400, color: '#424245', textDecoration: 'none', letterSpacing: '0.01em', transition: 'color 0.2s' }}
+          <a href="mailto:Vorugantipradeep2331@gmail.com" style={{ fontSize: '13px', fontWeight: 400, color: '#424245', textDecoration: 'none', letterSpacing: '0.01em', transition: 'color 0.2s' }}
             onMouseOver={e => (e.currentTarget.style.color = '#fff')}
             onMouseOut={e => (e.currentTarget.style.color = '#424245')}>
-            vorugantipradeep9950@gmail.com
+            Vorugantipradeep2331@gmail.com
+          </a>
+
+          <a href="tel:+17084877486" style={{ fontSize: '13px', fontWeight: 400, color: '#424245', textDecoration: 'none', letterSpacing: '0.01em', transition: 'color 0.2s' }}
+            onMouseOver={e => (e.currentTarget.style.color = '#fff')}
+            onMouseOut={e => (e.currentTarget.style.color = '#424245')}>
+            (708) 487-7486
           </a>
 
           <div style={{ display: 'flex', gap: '28px', alignItems: 'center' }}>

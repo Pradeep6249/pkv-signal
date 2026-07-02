@@ -20,7 +20,7 @@ export default function Nav() {
       <div style={{ fontSize: '13px', fontWeight: 500, letterSpacing: '0.02em', color: '#fff', opacity: show ? 1 : 0, transition: 'opacity 1s' }}>
         Pradeep Kumar Voruganti
       </div>
-      <a href="mailto:vorugantipradeep9950@gmail.com" style={{ fontSize: '13px', fontWeight: 400, color: '#fff', textDecoration: 'none', opacity: show ? 1 : 0, transition: 'opacity 1s', letterSpacing: '0.01em' }}>
+      <a href="mailto:Vorugantipradeep2331@gmail.com" style={{ fontSize: '13px', fontWeight: 400, color: '#fff', textDecoration: 'none', opacity: show ? 1 : 0, transition: 'opacity 1s', letterSpacing: '0.01em' }}>
         Work Together →
       </a>
     </nav>
